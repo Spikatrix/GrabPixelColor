@@ -6,8 +6,9 @@ A C program that prints the color of a selected pixel
 
 ### Compile from source ###
 
-	$ git clone https://github.com/Spikatrix/GrabPixelColor.git
 	$ sudo apt install libx11-dev libpng-dev scrot
+	$ git clone https://github.com/Spikatrix/GrabPixelColor.git
+	$ cd GrabPixelColor
 	$ make
     
 To run, use
